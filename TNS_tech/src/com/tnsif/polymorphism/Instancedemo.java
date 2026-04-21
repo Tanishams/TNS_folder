@@ -17,5 +17,4 @@ public static void main(String[] args) {
 	System.out.println(m instanceof Manager);
 	System.out.println(m instanceof Person1);
 }
-
 }
