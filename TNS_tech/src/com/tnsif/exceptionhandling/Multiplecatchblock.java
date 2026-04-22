@@ -16,5 +16,6 @@ public static void main(String[] args) {
 	catch(Exception j ) {
 		System.out.println("College");
 	}
+	
 }
 }
