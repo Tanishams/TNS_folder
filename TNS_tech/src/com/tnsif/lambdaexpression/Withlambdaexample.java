@@ -1,6 +1,6 @@
 package com.tnsif.lambdaexpression;
 
-	// demo for lambda expression
+	// demo for lambda expression arrow token to implemention
 
 	@FunctionalInterface
 	interface Draw{
