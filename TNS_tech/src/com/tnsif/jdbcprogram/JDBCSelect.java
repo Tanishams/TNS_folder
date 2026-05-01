@@ -13,7 +13,7 @@ public class JDBCSelect {
 		System.out.println("Step 2 Load and register completed");
 		
 		//step 3 : establish the connection 
-		Connection conn=DriverManager.getConnection("jdbc:postgresql://localhost:5432/TNSIFSQL","postgres","Gre#2@wordPost");
+		Connection conn=DriverManager.getConnection("jdbc:postgresql://localhost:5432/TNSIFSQL","postgres","insertur_postgres_password");
 		System.out.println("Establish the connection completed");
 		
 		//step 4: create statement 
